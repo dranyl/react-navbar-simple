@@ -1,5 +1,7 @@
 #react-navbar-simple
 
+A simple project of responsive navbar build in following stack - react, react router dom and font awesome.
+
 ## Install React Router
 
 ```
